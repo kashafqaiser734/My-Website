@@ -1,23 +1,43 @@
-# [Information about Zurich]
+# 🌐 My Website
 
-A responsive [landing page / portfolio / multi-page] website built with HTML, CSS, and JavaScript.
+Welcome to my personal web project!
 
-## Features
-- [Feature 1, e.g., responsive layout]
-- [Feature 2, e.g., navigation menu]
-- [Feature 3, e.g., contact form or image gallery]
+This website is created to showcase my web development skills and practice building responsive and user-friendly websites.
 
-## Technologies Used
+##  Features
+
+- Multiple webpages
+- Clean and simple user interface
+- Food and places sections
+- Easy navigation
+- Responsive design (if supported)
+
+##  Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
-## How to Run
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+##  Project Structure
 
-## Live Demo
-[https://kashafqaiser030-glitch.github.io/My-Website/]
+- `index.html` – Homepage
+- `food.html` – Food page
+- `places.html` – Places page
 
-## About
-Built by Kashaf Qaiser, BS IT student. This was my first website project.
+##  Live Demo
+
+[Visit My Website](https://kashafqaiser030-glitch.github.io/My-Website/)
+
+##  Purpose
+
+This project helped me practice frontend web development and improve my HTML, CSS, and JavaScript skills.
+
+##  Author
+
+**Kashaf Qaiser**
+
+GitHub: [@kashafqaiser030-glitch](https://github.com/kashafqaiser030-glitch)
+
+---
+
+Thank you for visiting my project!
